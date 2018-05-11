@@ -1,0 +1,16 @@
+textBox ---> Usuário digitar
+labe    ---> Apresentar alguma informação
+
+BlackColor ---> Cor de fundo
+ForeColor  ---> Cor do texto
+
+//**************************//
+
+# - você pode digitar +/- [opicional]
+0 - Digitar zero to 9 [requerido]
+9 - Digitar 0 - 9 [opicional]
+A - Alfanumérico. [requerido]
+a - Alfanumérico. [opcional]
+L - Letras a-z, A-Z [requerido]
+? - Letras a-z, A-Z [opcional]
+C - Qualquer caractere nã controlado [opcional]
